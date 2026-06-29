@@ -10,7 +10,7 @@ import ProtectedRoute from "./components/ProtectedRoute";
 import NotFound from "./pages/NotFound";
 
 function App() {
-  return (
+    return (
     <Layout>
       <Routes>
         <Route path="/" element={<Home />} />
@@ -34,5 +34,6 @@ function App() {
     </Layout>
   );
 }
+
 
 export default App;
