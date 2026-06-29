@@ -1,16 +1,34 @@
-# React + Vite
+# TechStore
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Proyecto final desarrollado con React para simular una tienda online de productos tecnológicos.
 
-Currently, two official plugins are available:
+## Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- React
+- React Router DOM
+- Firebase Firestore
+- Firebase Authentication
+- Context API
+- Tailwind CSS
+- React Icons
+- React Helmet Async
 
-## React Compiler
+## Funcionalidades
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Catálogo de productos.
+- Detalle individual de cada producto.
+- Carrito de compras con Context API.
+- Formato de precios en pesos argentinos.
+- Búsqueda de productos.
+- Paginación del catálogo.
+- Login con Firebase Authentication.
+- Ruta protegida para el panel de administración.
+- Panel Admin para agregar, editar y eliminar productos.
+- Productos almacenados en Firebase Firestore.
+- Página 404 para rutas inexistentes.
+- Diseño responsive.
 
-## Expanding the ESLint configuration
+## Instalación
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+```bash
+npm install
