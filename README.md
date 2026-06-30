@@ -6,7 +6,7 @@ Proyecto final desarrollado con **React** que simula una tienda online de produc
 
 Aplicación desplegada en Vercel:
 
-https://pre-entrega-react-flax.vercel.app
+https://pre-entrega-react-seven.vercel.app/
 
 ## Acceso al panel de administración
 
