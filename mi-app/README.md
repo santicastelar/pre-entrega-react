@@ -12,7 +12,7 @@ https://pre-entrega-react-flax.vercel.app
 
 Para probar el panel de administración utilizar las siguientes credenciales:
 
-**Email:** `admin@techstore.com`
+**Email:** `admin@gmail.com`
 
 **Contraseña:** `123456`
 
